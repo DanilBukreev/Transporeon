@@ -1,0 +1,5 @@
+selenium
+selenium-chrome
+webdriver-manager
+pandas 
+lxml
